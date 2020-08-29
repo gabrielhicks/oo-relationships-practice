@@ -11,10 +11,10 @@ relationships you need to build the site.
   - characters only have one actor (for this model)
   - characters may have multiple movies or shows
   - what other relationships exist?
-- for an extra twist, afterwards throw episodes into the mix and see how the
+<!-- - for an extra twist, afterwards throw episodes into the mix and see how the
   relationships change
   - a show has many episodes
-  - an episode has many characters
+  - an episode has many characters -->
 
 These are not simple relationships, so take some time creating them. Write out
 the relationships using has_many, belongs_to and has_many_through. Write out a
